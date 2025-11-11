@@ -1,10 +1,11 @@
 name: fluent_back_home
+resolution: workspace
 description: Back home screen without exiting the app on android device.
 version: 1.0.0
 homepage: https://dev.jiejie/coding
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=3.9.2 <4.0.0"
   flutter: ">=3.29.0"
 
 dependencies:
@@ -14,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
