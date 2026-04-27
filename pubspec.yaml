@@ -1,7 +1,7 @@
 name: fluent_back_home
 resolution: workspace
 description: Back home screen without exiting the app on android device.
-version: 1.0.0
+version: 1.0.1
 homepage: https://dev.jiejie/coding
 
 environment:
